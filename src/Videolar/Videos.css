@@ -1,0 +1,19 @@
+.interactive{
+    background-color: #F3F2EE;
+}
+.interComponent{
+    width: 100%;
+    background-color: white;
+    margin-top: -60px;
+}
+.institut , .qoshimcha{
+    height: 80px;
+    border-radius: 0;
+    border: none;
+    border-bottom: 5px solid #ACDACA;
+    background-color:#F3F2EE ;
+    cursor: pointer;
+}
+.bordernone{
+    border: none;
+}

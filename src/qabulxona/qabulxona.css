@@ -1,0 +1,37 @@
+.qabul-container{
+    width: 80%;
+    margin: 0 auto;
+}
+.orqa-fon{
+    background-color: #F9FAFC;
+    width: 100%;
+}
+.ariza{
+    overflow: hidden;
+    width: 100%;
+}
+.raqam1{
+    font-size: 18px;
+   margin-left: 10px;
+    margin-top: 3px;
+}
+.hr1{
+    width: 20%;
+    position: absolute;
+    left: 340px;
+    top: 135px;
+}
+.hr2{
+    width: 20%;
+    position: absolute;
+    left: 850px;
+    top: 135px;
+}
+.birinchi{
+    width: 100%;
+    margin-top: 50px;
+    box-shadow: 5px 5px 2px 2px #F0F0F0;
+}
+.display-none{
+    display: none;
+}

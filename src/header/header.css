@@ -1,0 +1,232 @@
+.body{
+    background-color: #F3F2EE;
+    margin-top: 0;
+    padding-top: 0;
+    overflow: hidden;
+}
+
+.container{
+    width: 99%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    overflow: hidden;
+    background-color: white;
+}
+.containerr{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.top-menu ul{
+    list-style-type: none;
+    float: left;
+}
+.menu ul{
+    list-style-type: none;
+    top: 70px;
+    position: absolute;
+    right: 30px;
+}
+.top-menu ul li{
+    float: left;
+    margin-right: 20px;
+}
+.menu ul li{
+    float: left;
+    padding: 10px;
+    margin-right: 5px;
+}
+.menu ul li:hover{
+    background-color:#F3F2EE ;
+}
+.covid-btn{
+    background-color: #79C8D2;
+    color: white;
+    border: solid 1px #79C8D2;
+}
+.covid-btn:hover{
+    background-color: white;
+    color: black;
+}
+.pochta-btn{
+    background-color: white;
+    color: black;
+    border: solid 1px #FF5CB3;
+}
+.pochta-btn:hover{
+    background-color: #FF5CB3;
+    color:white;
+}
+.qabul-btn{
+    background-color: white;
+    border: 1px solid #393939;
+    color: black;
+}
+.qabul-btn:hover{
+    background-color: #393939;
+    color: white;
+    border: 1px solid #393939;
+}
+.menu_item_hover{
+    background-color:#F3F2EE;
+}
+/*.icons-mobile{*/
+/*    position: absolute;*/
+/*    left: 20px;*/
+/*}*/
+.icons-mobile ul{
+    list-style-type: none;
+    width: 300px;
+}
+.icons-mobile ul li{
+    float: left;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.none{
+    display: none;
+}
+@media only screen and (max-width: 1400px) {
+    .none{
+        display: block;
+    }
+    .cancel{
+        display: none;
+    }
+}
+@media only screen and (min-width: 1400px) {
+    .sidebarmenu{
+        display: none;
+    }
+
+}
+.sidebarmenu{
+    margin-top: 40px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 800ms;
+    /*animation-delay: 0s;*/
+}
+.umumiy,.tuzilma,.faoliyat,.abituriyent,.talabalar,.qonunchilik{
+    position: relative;
+    animation-name: behruz;
+    animation-duration: 700ms;
+    animation-delay: 0s;
+    margin-bottom: 10px;
+    width: 100%;
+}
+@keyframes example {
+    0%   { left:-400px; top:0px;}
+    100%  { left:0px; top:0px;}
+}
+@keyframes behruz {
+    0%   { left:-100px; top:0px;}
+    100%  { left:0px; top:0px;}
+}
+.sidebarmenu .item a{
+    color: #5145CD;
+}
+/*.item{*/
+/*    width: 100%;*/
+/*    height: 50px;*/
+/*    border-bottom: 1px solid #DDDDDD;*/
+/*    position: relative;*/
+/*    cursor: pointer;*/
+/*}*/
+/*.itemm{*/
+/*    width: 100%;*/
+/*    height: 40px;*/
+/*}*/
+
+/*.item a{*/
+/*    font-size: 20px;*/
+/*    margin-left: 20px;*/
+/*    color: #5145CD;*/
+/*}*/
+/*.itemm a{*/
+/*    font-size: 18px;*/
+/*    margin-left:80px;*/
+/*    color: black;*/
+/*}*/
+.sidebarmenu .item a:hover{
+    color: red;
+}
+/*.item a:hover{*/
+/*    color: #5145CD;*/
+/*}*/
+.k-btn{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(121,200,210);
+    cursor: pointer;
+}
+.p-btn{
+    width: 100%;
+    height: 50px;
+    border: solid 1px #FF5CB3;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.x-btn{
+    width: 100%;
+    height: 50px;
+    border: solid 1px #393939;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.k-btn:hover{
+    background-color: rgba(121,200,210,0.8);
+}
+.p-btn:hover{
+    background-color:#FF5CB3 ;
+    color: white;
+}
+.x-btn:hover{
+    background-color:#393939 ;
+    color: white;
+}
+.m{
+    position: absolute;
+    left: -100px;
+}
+.m1{
+    position: absolute;
+    left: -250px;
+}
+.m2{
+    position: absolute;
+    left: -360px;
+}
+.m3{
+    position: absolute;
+    left: -440px;
+}
+.m4{
+    position: absolute;
+    left: -550px;
+}
+.m5{
+    position: absolute;
+    left: -650px;
+}
+.m6{
+    position: absolute;
+    left: -790px;
+}
+.Toltipbtn{
+    border-radius: 100%;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 10px;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+}
+/*.Toltipbtn:hover{*/
+/*    background-color: rgba(0,0,0,0.9);*/
+/*}*/
+.active{
+    color: red;
+}

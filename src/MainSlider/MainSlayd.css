@@ -1,0 +1,22 @@
+.real-container{
+    width: 80%;
+    margin: 0 auto;
+}
+.SlaydFooter{
+   width: 100%;
+    height: 30%;
+    padding: 50px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #DAD9D6;
+}
+.slaydFoterTitle{
+    color: black;
+    font-family: "pf_dintext_promedium", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: -20px;
+    margin-bottom: 0;
+    box-sizing: border-box;
+}

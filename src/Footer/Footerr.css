@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.footerrs{
+    background-color: transparent;
+    padding-top: 0;
+    min-height: 200px;
+    width: 100%;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.interComponent{
+    width: 100%;
+    background-color: white;
+}
+.footerrss{
+    background-image: url(../images/Screenshot_3.png);
+    width: 100%;
+}
+.footerIcon{
+    float: left;
+    font-size: 30px;
+    color: #4F5352;
+    margin-right: 20px;
+    margin-top: -60px;
+}

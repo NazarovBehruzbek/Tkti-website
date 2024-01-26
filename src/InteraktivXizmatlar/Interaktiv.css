@@ -1,0 +1,17 @@
+.interactive{
+    background-color: #F3F2EE;
+}
+.interComponent{
+    width: 100%;
+    background-color: white;
+    margin-top: -60px;
+}
+.interCardTitle{
+    color: #404D53;
+    font-size: 25px;
+    font-family: sans-serif;
+    position: absolute;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    bottom: -90px;
+}

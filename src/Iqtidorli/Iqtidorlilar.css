@@ -1,0 +1,15 @@
+.interactive{
+    background-color: #F3F2EE;
+    width: 100%;
+}
+.interComponent{
+    width: 100%;
+    background-color: white;
+    margin-top: -60px;
+    margin-bottom: 50px;
+}
+@media only screen and (max-width: 700px) {
+    .talaba{
+        margin-left: 40px;
+    }
+}

@@ -1,0 +1,78 @@
+.bodyEK{
+    background-image: url("http://lib.tcti.uz/wp-content/uploads/2018/04/hotel_pattern.png");
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100%;*/
+}
+.ElLogo{
+    width: 70%;
+    margin: 0 auto;
+}
+.container1223{
+    width: 70%;
+    margin: 0 auto;
+}
+.BoshBtn{
+    border-radius: 10px;
+    height: 50px;
+    margin-right: 10px;
+    background-color: #003F8F;
+    color: white;
+    width: 120px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+.tct{
+    background-color: white;
+    color: #C1C1C1;
+}
+.tct:hover{
+    background-color: #003F8F;
+    color: white;
+    border-color: #003F8F;
+}
+.CardE{
+    background-color: #E8EEEE;
+
+}
+.CardE h5{
+    margin-bottom: 5px;
+}
+.CardE h5:hover{
+color: #003F8F;
+    font-size: 14px;
+    cursor: pointer;
+}
+.cradTitle{
+    font-size: 30px;
+    padding: 20px;
+    font-family: sans-serif;
+    color: #003F8F;
+    background-color: white;
+    width: 107%;
+margin-left: -3.5%;
+    margin-top: -3.5%;
+}
+.titleK{
+
+}
+.downImg{
+    border: 5px solid white;
+    padding: 30px;
+    width: 250px;
+    margin-top: 20px;
+}
+.EKfooter{
+    background-color: transparent;
+    color: black;
+    width: 80%;
+    margin: 0 auto;
+}
+.EKfooter ul li{
+    color: #C1C1C1;
+    font-family: sans-serif;
+}
+.EKfooter ul li h1{
+    font-family: sans-serif;
+    color: #C1C1C1;
+}

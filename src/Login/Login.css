@@ -1,0 +1,91 @@
+
+.loginForm .formitem{
+    width: 300px;
+    margin-left: 10px;
+
+}
+.loginForm .formitem Input{
+    height: 50px;
+    border-radius: 10px;
+}
+.card_footer{
+    width: 300px;
+    border-radius: 5px;
+    background-color: #5145CD;
+    height: 50px;
+    margin-left: 10px;
+}
+.dangerText{
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid red;
+    background-color: #FDF2F2;
+    color: red;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.login-div{
+    /*background-color: #5145CD;*/
+    background-image: url("https://avatars.mds.yandex.net/get-altay/1880524/2a0000016f15fa3da4f4be3a582431836fb1/XXXL");
+    width: 100%;
+    margin-top: 0;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+.login-div_sign{
+    background-color: #5145CD;
+    width: 100%;
+    height: 110vh;
+}
+.login_text{
+    font-size: 50px;
+    color: white;
+    padding-left: 100px;
+    padding-top: 30px;
+    font-family: "Times New Roman";
+}
+.login_little_text{
+    font-size: 15px;
+    color: #C8C4EF;
+    padding-left: 100px;
+
+}
+.login_button{
+    background-color: #5145CD;
+    border-radius: 5px;
+    margin-left: 100px;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+}
+.site-card-border-less-wrapper{
+    padding-left: 30px;
+    padding-top: 50px;
+    background-color: transparent;
+}
+.site-card-border-less-wrapper h1{
+    font-family: "Times New Roman";
+    font-size: 30px;
+}
+.site-card-border-less-wrapper .card_body{
+    margin-top: -90px;
+}
+.orcontinue{
+    color: #9BA7AD;
+    margin-left: 25%;
+    font-size: 20px;
+}
+.loginForm_button{
+    width: 90px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
